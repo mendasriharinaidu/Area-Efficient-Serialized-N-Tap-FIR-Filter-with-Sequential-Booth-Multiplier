@@ -1,4 +1,4 @@
-module rd_counter(clk,rd,count);
+module sample_mem_rd_pointer(clk,rd,count);
 parameter N=21,M=240;      // N indicates the taps of a fir filter
 input clk; 
 input rd;             // M indicates the no. of samples used to filter
