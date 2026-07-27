@@ -1,4 +1,4 @@
-module wr_pointer(clk,addr);
+module coefficient_mem_wr_pointer(clk,addr);
 parameter N=21;
 input clk;
 output reg[7:0]addr=0;
@@ -10,3 +10,4 @@ addr<=N-1;
 else
 addr<=0;
 endmodule
+
