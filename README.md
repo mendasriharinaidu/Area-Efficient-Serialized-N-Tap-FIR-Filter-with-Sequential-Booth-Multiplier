@@ -91,15 +91,25 @@ The complete FIR filter was verified through:
 ## 📷 Project Demonstration
 
 ### RTL Simulation
+**figure 1: RTL Simulation of 5-Tap Serialized FIR Filter**
 
+<img width="1906" height="715" alt="Screenshot 2026-03-01 151621" src="https://github.com/user-attachments/assets/901356e8-a6fc-4ec9-b31c-8933b5bcca41" />
+
+**figure 2: RTL Simulation of 21-Tap FIR Filter for ECG Noise Removal**
+
+<img width="4096" height="3276" alt="GridArt_20260727_120725195 jpg" src="https://github.com/user-attachments/assets/33a07dfd-31ea-4a42-8e09-0e1d508eefc3" />
 
 ---
 
-
 ### Resource Utilization Report
 
+<img width="616" height="337" alt="Screenshot 2026-03-01 165514" src="https://github.com/user-attachments/assets/c58b7754-6bf3-4f3c-bb01-dfa141c86dee" />
 
 ---
 
 ### Power Analysis Report
-*Add Vivado power report screenshots here.*
+
+<img width="670" height="339" alt="Screenshot 2026-03-01 165654" src="https://github.com/user-attachments/assets/b5de4f63-457e-4843-8d6e-55c201a6c283" />
+<img width="529" height="374" alt="Screenshot 2026-03-01 165713" src="https://github.com/user-attachments/assets/de94d373-2205-4613-bf3b-cdbf46b4a670" />
+
+
