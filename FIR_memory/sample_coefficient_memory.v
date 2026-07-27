@@ -1,4 +1,4 @@
-module ram(clk,done,data_in1,data_out1,data_in2,data_out2);
+module sample_coefficient_memory(clk,done,data_in1,data_out1,data_in2,data_out2);
 parameter M=240,N=21;
 input clk;
 input done;
