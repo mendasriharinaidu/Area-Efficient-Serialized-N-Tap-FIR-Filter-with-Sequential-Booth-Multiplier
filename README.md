@@ -58,8 +58,7 @@ The sequential MAC architecture minimizes switching activity, resulting in very 
 
 **figure 2: RTL Simulation of 21-Tap FIR Filter for ECG Noise Removal**
 
-<img width="4096" height="4096" alt="GridArt_20260727_123617548 jpg" src="https://github.com/user-attachments/assets/a2bbecf8-8e5f-4dec-9791-455c4925a9dd" />
-
+<img width="4096" height="1365" alt="GridArt_20260727_124012003 jpg" src="https://github.com/user-attachments/assets/87593693-7fe2-4a9f-900b-3aecf5f9fdeb" />
 
 ---
 
