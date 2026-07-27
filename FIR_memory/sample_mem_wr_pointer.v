@@ -1,4 +1,4 @@
-module wr_counter(clk,addr);
+module sample_mem_wr_pointer(clk,addr);
 parameter M=240;
 input clk;
 output reg [7:0]addr=0;
