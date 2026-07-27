@@ -13,7 +13,7 @@ output [15:0]result;
 
 assign start=1;
  
-ram m1(clk,done,data_in1,data_out1,data_in2,data_out2);
+sample_coefficient_memory m1(clk,done,data_in1,data_out1,data_in2,data_out2);
 boothmultiplier m2(data_out1,data_out2,clk,start,done,product);
 feedback_adder m3(done,product,result);
 
